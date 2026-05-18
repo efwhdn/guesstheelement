@@ -118,23 +118,6 @@ Projeyi doğrudan deneyebilirsiniz:
 
 ---
 
-## Proje Yapısı
-
-```text
-guesstheelement/
-├── README.md
-├── assets/
-│   ├── logo.png
-│   └── screenshots/
-│       ├── main-menu.png
-│       ├── gameplay.png
-│       ├── multiplayer.png
-│       └── leaderboard.png
-└── docs/
-```
-
----
-
 ## Nasıl Kullanılır?
 
 1. Web sitesini açın.
