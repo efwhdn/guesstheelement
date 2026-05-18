@@ -116,10 +116,6 @@ Projeyi doğrudan deneyebilirsiniz:
 
 ![Çok Oyunculu Mod](assets/screenshots/multiplayer.png)
 
-### Liderlik Tablosu
-
-![Liderlik Tablosu](assets/screenshots/leaderboard.png)
-
 ---
 
 ## Proje Yapısı
